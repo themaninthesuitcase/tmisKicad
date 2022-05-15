@@ -39,7 +39,7 @@
   (pad "1" thru_hole rect (at -2.5 7.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp c4308013-8eaa-4944-a339-ca7b446f1b98))
   (pad "2" thru_hole circle (at 0 7.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp a2905bf8-4081-43cf-a840-a739bfe95491))
   (pad "3" thru_hole circle (at 2.5 7.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 518dd386-846a-485b-8f8f-e4f97f3cd1f8))
-  (model "${TMIS_3DMODEL_DIR}/tmisPotentiometer_THT.3dshapes/RD901F-40-15R1.step"
+  (model "${TMIS_3DMODEL_DIR}/tmis_THT.3dshapes/RD901F-40-15R1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

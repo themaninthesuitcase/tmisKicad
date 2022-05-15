@@ -48,17 +48,17 @@
   (pad "S" thru_hole oval (at 0 6.48) (size 3.1 2.3) (drill oval 1.6 0.6) (layers *.Cu *.Mask) (tstamp 5994a946-119f-4db4-aafe-00ae73b5b800))
   (pad "T" thru_hole roundrect (at 0 -4.92) (size 2.6 2.6) (drill oval 1.6 0.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp f6ee98b5-4773-4eeb-a825-33c1705abace))
   (pad "TN" thru_hole roundrect (at 0 3.38) (size 2.6 2.6) (drill oval 1.6 0.6) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp b680b4a7-6cb0-40b5-a7ec-a02910a0daa4))
-  (model "${TMIS_3DMODEL_DIR}/tmisAudioJacks.3dshapes/PJ398SM.step"
+  (model "${TMIS_3DMODEL_DIR}/tmis_THT.3dshapes/PJ398SM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${TMIS_3DMODEL_DIR}/AudioJacks.3dshapes/PJ398SM_Hex_nut.step"
+  (model "${TMIS_3DMODEL_DIR}/tmis_THT.3dshapes/PJ398SM_Hex_nut.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${TMIS_3DMODEL_DIR}/AudioJacks.3dshapes/PJ398SM_Knurl_nut.step"
+  (model "${TMIS_3DMODEL_DIR}/tmis_THT.3dshapes/PJ398SM_Knurl_nut.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
