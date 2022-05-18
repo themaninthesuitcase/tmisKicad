@@ -1,0 +1,14 @@
+(footprint "PCB_12hp" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -53.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1ad7167c-d842-43e1-aa03-616956653f99)
+  )
+  (fp_text value "PCB_12hp" (at 0 55 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1ecc1846-9d45-47c8-a9a5-7ee29d34b71f)
+  )
+  (fp_rect (start -29.3 -54.175) (end 29.3 54.175) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp d038719f-bd10-44ee-af1d-bbbbd049eabf))
+)
