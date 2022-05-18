@@ -1,0 +1,14 @@
+(footprint "MountingHole_TactileSwitch_D3.5mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 60960af7-b938-44a8-82b5-e9c36f2e6817)
+  )
+  (fp_text value "MountingHole_TactileSwitch_D3.5mm" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2ba21493-929b-4122-ac0f-7aeaf8602cef)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.5) (layers *.Mask) (tstamp e8cb6cb3-dd2b-4328-8592-132e369ebb71))
+)

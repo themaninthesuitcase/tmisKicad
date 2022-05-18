@@ -1,0 +1,14 @@
+(footprint "MountingHole_Thonkiconn_D6.2mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2a756062-4e0c-4114-bc6d-4d6635f2d703)
+  )
+  (fp_text value "MountingHole_Thonkiconn_D6.2mm" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 758f4e53-9507-488a-960b-2e8e487b7ac8)
+  )
+  (pad "" thru_hole circle (at 0 0) (size 6.7 6.7) (drill 6.2) (layers *.Cu *.Mask) (tstamp 39125f99-6caa-4e69-9ae5-ca3bd6e3a49c))
+)

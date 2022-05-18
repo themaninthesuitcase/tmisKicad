@@ -1,0 +1,14 @@
+(footprint "MountingHole_LED_5.0mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1cb64bfe-d819-47e3-be11-515b04f2c451)
+  )
+  (fp_text value "MountingHole_5.0mm_LED" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9f4abbc0-6ac3-48f0-b823-2c1c19349540)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 5.2 5.2) (drill 5.2) (layers *.Mask) (tstamp c811ed5f-f509-4605-b7d3-da6f79935a1e))
+)
