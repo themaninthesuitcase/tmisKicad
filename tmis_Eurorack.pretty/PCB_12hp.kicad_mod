@@ -1,6 +1,8 @@
 (footprint "PCB_12hp" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (descr "PCB edge cut to fit behind a eurorack 12hp faceplate.")
+  (tags "eurorack pcb 12hp")
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -53.5 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
