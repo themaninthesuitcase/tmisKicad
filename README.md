@@ -1,8 +1,8 @@
 # themaninthesuitcase KiCad Libraries
 
-A collection of kicad symbols and footprints that I have made and collected.
+A collection of kicad symbols and footprints that I have made and/or collected.
 
-## Footprint 3D models
-The footprints expect foot prints to have a variable `{TMIS_3DMODEL_DIR}` to exist. This should point to the root of the library ie `tmisKicad`.
+## Resources used
 
-This will need to be made manually Kicad using **Preferences > Configure Paths...**
+* RD901F-40-15R1.step by [Vasily Kashirin](https://grabcad.com/library/alpha-rd901f-40-15r1-1)
+* PJ398SM.step by [Clacktronics](https://github.com/clacktronics/AudioJacks)
